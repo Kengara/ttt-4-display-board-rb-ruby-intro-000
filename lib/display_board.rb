@@ -7,8 +7,9 @@ def display_board(board)
 end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
-#board[0] = "O"
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+
+board[0] = "O"
+#board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)
 #board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 #board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]

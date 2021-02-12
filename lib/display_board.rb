@@ -8,6 +8,7 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
+puts "Firts intant"
 board[0] = "O"
 #board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board)

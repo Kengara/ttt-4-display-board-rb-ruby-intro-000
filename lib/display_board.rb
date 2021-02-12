@@ -1,17 +1,17 @@
-def display_board(board)
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-end
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board(board)
+#def display_board(board)
+  #puts "   |   |   "
+  #puts "-----------"
+  #puts "   |   |   "
+  #puts "-----------"
+  #puts "   |   |   "
+#end
+#board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+#display_board(board)
 
-puts "Firts intant"
-board[0] = "O"
+#puts "Firts intant"
+#board[0] = "O"
 #board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-display_board(board)
+#display_board(board)
 #board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 #board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 #board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
